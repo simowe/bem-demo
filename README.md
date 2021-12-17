@@ -38,7 +38,7 @@ http://getbem.com/naming/
 
 ## Specificity
 
-Conflicting css declarations are resolved by specificity
+Conflicting css declarations are resolved by specificity. The following selectors are ordered by least to most specific.
 
 ```txt
 // type selector
