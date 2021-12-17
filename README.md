@@ -67,3 +67,7 @@ Use specificity to override css instead of important!
 ```
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+
+### BEM specificity
+
+BEM uses only the class names as selectors. The class name by it self is enough to identify the element, so there is no need to nest selectors. The specificity is flat and easy to work with. The order of the statements will be the main way to resolve overrides.
