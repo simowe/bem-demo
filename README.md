@@ -34,6 +34,7 @@ http://getbem.com/naming/
 
 - BEM can get verbose
   - `.user-settings-menu__sub-menu-item--white-border`
+  - Will be mitigated a bit since vue scoping allows us to use shorter block names that aren't globally unique.
 
 ## Specificity
 
